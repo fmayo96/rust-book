@@ -11,3 +11,8 @@ This chapter discusses the basics, variables, functions, control flow and loops.
 ### Chapter 4: Understanding Ownership
 
 Through a series of short examples we look at ownership and other related topics like slices.
+
+
+### Chapter 5: Structs
+
+Example of structs using a rectangle.
